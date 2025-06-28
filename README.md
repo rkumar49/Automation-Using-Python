@@ -1,6 +1,3 @@
-Sure! Here’s a clean, simple README file for your project using Pydantic v2 with explanation of `BaseModel` and `field_validator`:
-
----
 
 # Employee Data Validation with Pydantic
 
